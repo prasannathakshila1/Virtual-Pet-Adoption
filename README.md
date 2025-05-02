@@ -69,6 +69,16 @@ virtual-pet-adoption/
 ├── package.json
 └── README.md
 ```
+## 🖼️ Screenshots
+
+### 🏠 Home Page
+![Home Page](./frontend/src/screenshots/home.png)
+
+### ➕ Add Pet Page
+![Add Pet](./frontend/src/screenshots/addpet.png)
+
+### 🐶 View Pet Details
+![View Pet](./frontend/src/screenshots/viewpet.png)
 
 ## 🔧 API Services
 
