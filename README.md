@@ -24,7 +24,7 @@ A modern, interactive web application for virtual pet adoption, built with React
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/virtual-pet-adoption.git
+   git clone https://github.com/prasannathakshila1/virtual-pet-adoption.git
    cd virtual-pet-adoption
    ```
 
