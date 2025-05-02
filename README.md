@@ -2,7 +2,6 @@
 
 A modern, interactive web application for virtual pet adoption, built with React and styled with Tailwind CSS.
 
-![Virtual Pet Adoption Center]([https://via.placeholder.com/800x400.png?text=Virtual+Pet+Adoption+Center](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nlpac.com%2F&psig=AOvVaw1yDUKi0aVv7q_TEW8_z1T1&ust=1746254214632000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCOt4iWhI0DFQAAAAAdAAAAABAE))
 
 ## ✨ Features
 
